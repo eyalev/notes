@@ -16,8 +16,7 @@ Similar repos: https://github.com/RichardLitt/meta-knowledge
 - Language
   - [Language Learning](/pages/language_learning.md)
 - Technology
-  - App Engine
-    - [App Engine](/pages/app_engine.md)
+  - [App Engine](/pages/app_engine.md)
 
 
 
