@@ -8,6 +8,7 @@
 - Our World
   - [Rebuild Society](/pages/rebuild_society.md)
 - Books
+  - [Reading List](/pages/reading_list.md)
   - [Why You Should Read Books](/pages/why_you_should_read_books.md)
 - Language
   - [Language Learning](/pages/language_learning.md)
