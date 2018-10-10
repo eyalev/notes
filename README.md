@@ -1,7 +1,7 @@
 
 # Notes
 
-[[Similar repos]](https://github.com/RichardLitt/meta-knowledge)
+[[Similar repos](https://github.com/RichardLitt/meta-knowledge)]
 
 ---
 
