@@ -1,9 +1,9 @@
 
 # App Engine
 
-## Incoming request default timeout
+## Incoming requests default timeout
 
-- [2018-10-07] 
+- [2018-10-07]
   - 60 seconds
 
 
