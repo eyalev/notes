@@ -5,6 +5,7 @@
   - Mindset shift
     - From thinking people are generally logical, to thinking people are generally not-logical.
     - We have many biases. We should try to be aware of them.
+
     
 - The Wright Brothers (9/10) ([git-wiki](https://github.com/git-wiki/wiki/blob/master/pages/the_wright_brothers_book.md))
   - Mindset shift
