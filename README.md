@@ -12,6 +12,7 @@
   - [Language Learning](/pages/language_learning.md)
 - Technology
   - [App Engine](/pages/app_engine.md)
+  - [Kubernetes](/pages/kubernetes.md)
   - [Google Kubernetes Engine](/pages/google_kubernetes_engine.md)
 - Our World
   - [Rebuild Society](/pages/rebuild_society.md)
