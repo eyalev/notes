@@ -6,7 +6,14 @@
     - From thinking people are generally logical, to thinking people are generally not-logical.
     - We have many biases. We should try to be aware of them.
 
-    
+
+- Einstein: His Life and Universe (10/10) ([git-wiki](https://github.com/git-wiki/wiki/blob/master/pages/einstein_his_life_and_universe.md))
+  - Mindset shift
+    - The value of self-belief and self-worth
+    - Being OK with imperfection
+    - Being curious
+  
+
 - The Wright Brothers (9/10) ([git-wiki](https://github.com/git-wiki/wiki/blob/master/pages/the_wright_brothers_book.md))
   - Mindset shift
     - The power of self-belief and self-determination
