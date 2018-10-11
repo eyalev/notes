@@ -18,10 +18,10 @@
   - Mindset shift
     - The power of self-belief and self-determination
       - People laughed and ridiculed the Wright brothers, but they just kept at it. 
-    - How hard it is to asses the worth of something in real time when in hindsight stuff seem so
-      obvious.
+    - How hard it is to asses the worth of something in real time, and later in hindsight things 
+      seem obvious.
         - The Wrights tried to sell their airplane to the US army, but the people in the
-          US army didn't understand why would they need it.
+          army didn't understand why they would need it.
           - So the Wright brothers sold their airplane to France instead.
 
 
