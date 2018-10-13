@@ -1,6 +1,13 @@
 
 # Reading List
 
+Book notes might have:
+  - Score in parentheses
+  - [git-wiki]() link. Similar in concept to a Wikipedia link.
+  - 'Mindset shift' section: how the book changed my mind in or thought process.
+
+---
+
 - Thinking Fast and Slow (10/10) ([git-wiki](https://github.com/git-wiki/wiki/blob/master/pages/thinking_fast_and_slow.md))
   - Mindset shift
     - From thinking people are generally logical, to thinking people are generally not-logical.
@@ -25,3 +32,7 @@
           - So the Wright brothers sold their airplane to France instead.
 
 
+- The Lean Startup (9/10) ([git-wiki](https://github.com/git-wiki/wiki/blob/master/pages/the_lean_startup.md))
+  - Takeaways
+    - The Concept of [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product).
+    - More scientific attitude to product development.
