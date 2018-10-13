@@ -19,6 +19,7 @@
   - [Rebuild Society](/pages/rebuild_society.md)
 - Meta
   - [Why Notes Repository](/pages/why_notes_repository.md)
+- [Thoughts](/pages/thoughts.md)
 
 
 
