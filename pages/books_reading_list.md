@@ -2,7 +2,7 @@
 # Reading List
 
 Book notes might have:
-  - Score in parentheses
+  - Score in parentheses.
   - [git-wiki]() link. Similar in concept to a Wikipedia link.
   - 'Mindset shift' section: how the book changed my mind in or thought process.
 
