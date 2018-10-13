@@ -14,6 +14,7 @@
   - [App Engine](/pages/app_engine.md)
   - [Kubernetes](/pages/kubernetes.md)
   - [Google Kubernetes Engine](/pages/google_kubernetes_engine.md)
+  - [CLI](/pages/cli.md)
 - Our World
   - [Rebuild Society](/pages/rebuild_society.md)
 - Meta
