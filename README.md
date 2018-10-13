@@ -15,6 +15,8 @@
   - [Kubernetes](/pages/kubernetes.md)
   - [Google Kubernetes Engine](/pages/google_kubernetes_engine.md)
   - [CLI](/pages/cli.md)
+- Psychology
+  - [Psychological Safety](/pages/psychological_safety.md)
 - Our World
   - [Rebuild Society](/pages/rebuild_society.md)
 - Meta
