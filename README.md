@@ -25,6 +25,7 @@
 - [Marketing](/pages/marketing.md)
 - [Quotes](/pages/quotes.md)
 - [Systems](/pages/systems.md)
+- [Newsletters](/pages/newsletters.md)
 
 
 
