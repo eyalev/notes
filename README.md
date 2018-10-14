@@ -26,6 +26,6 @@
 - [Quotes](/pages/quotes.md)
 - [Systems](/pages/systems.md)
 - [Newsletters](/pages/newsletters.md)
-
+- [Philosophy](/pages/philosophy.md)
 
 
