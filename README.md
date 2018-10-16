@@ -27,5 +27,5 @@
 - [Systems](/pages/systems.md)
 - [Newsletters](/pages/newsletters.md)
 - [Philosophy](/pages/philosophy.md)
-
+- [Automation](/pages/automation.md)
 
