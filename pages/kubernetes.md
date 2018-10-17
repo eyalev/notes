@@ -1,6 +1,19 @@
 
 # Kubernetes
 
+## One liner interactive shell in a pod deployment
+
+Example: `kubectl run -i --tty busybox --image=busybox -- sh`
+
+https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+
+## Services do not ping
+- https://github.com/kubernetes/kubernetes/issues/7996#issuecomment-299497122
+  - > Services do not ping.
+    - @thockin
+- https://stackoverflow.com/questions/50852542/kubernetes-cannot-ping-another-service
+  - > Ping doesn't work with service's cluster IPs like 10.233.14.157, as it is a virtual IP. You should be able to ping a specific pod, but no a service.
+
 ## Sidecar container pattern
 
 - https://kubernetes.io/docs/concepts/workloads/pods/pod-overview/
