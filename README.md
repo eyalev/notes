@@ -17,6 +17,8 @@
   - [Google Kubernetes Engine](/pages/google_kubernetes_engine.md)
   - [CLI](/pages/cli.md)
   - [JSON](/pages/json.md)
+  - [Emacs](/pages/emacs.md)
+  - [IntelliJ](/pages/intellij.md)
 - Psychology
   - [Psychological Safety](/pages/psychological_safety.md)
 - Our World
@@ -30,4 +32,5 @@
 - [Newsletters](/pages/newsletters.md)
 - [Philosophy](/pages/philosophy.md)
 - [Automation](/pages/automation.md)
+- [Homeschooling](/pages/homeschooling.md)
 
