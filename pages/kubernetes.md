@@ -1,6 +1,13 @@
 
 # Kubernetes
 
+## Maximum Nodes in Cluster
+
+`5000`
+
+- Updated: 2018-10-21
+- Source: https://kubernetes.io/docs/setup/cluster-large/
+ 
 ## One liner interactive shell in a pod deployment
 
 Example: `kubectl run -i --tty busybox --image=busybox -- sh`
