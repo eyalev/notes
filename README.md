@@ -19,12 +19,15 @@
   - [JSON](/pages/json.md)
   - [Emacs](/pages/emacs.md)
   - [IntelliJ](/pages/intellij.md)
+  - [Javascript](/pages/javascript.md)
 - Psychology
   - [Psychological Safety](/pages/psychological_safety.md)
 - Our World
   - [Rebuild Society](/pages/rebuild_society.md)
 - Meta
   - [Why Notes Repository](/pages/why_notes_repository.md)
+- Spirituality
+  - [Alan Watts](/pages/alan_watts.md)
 - [Thoughts](/pages/thoughts.md)
 - [Marketing](/pages/marketing.md)
 - [Quotes](/pages/quotes.md)
@@ -33,4 +36,5 @@
 - [Philosophy](/pages/philosophy.md)
 - [Automation](/pages/automation.md)
 - [Homeschooling](/pages/homeschooling.md)
+- [Learning](/pages/learning.md)
 
