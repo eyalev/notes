@@ -20,6 +20,7 @@
   - [Emacs](/pages/emacs.md)
   - [IntelliJ](/pages/intellij.md)
   - [Javascript](/pages/javascript.md)
+  - [Data Science](/pages/data_science.md)
 - Psychology
   - [Psychological Safety](/pages/psychological_safety.md)
 - Our World
