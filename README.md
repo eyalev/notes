@@ -38,4 +38,5 @@
 - [Automation](/pages/automation.md)
 - [Homeschooling](/pages/homeschooling.md)
 - [Learning](/pages/learning.md)
+- [Sales](/pages/sales.md)
 
