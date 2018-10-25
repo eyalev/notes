@@ -39,4 +39,4 @@
 - [Homeschooling](/pages/homeschooling.md)
 - [Learning](/pages/learning.md)
 - [Sales](/pages/sales.md)
-
+- [Tools](/pages/tools.md)
