@@ -40,3 +40,6 @@
 - [Learning](/pages/learning.md)
 - [Sales](/pages/sales.md)
 - [Tools](/pages/tools.md)
+- [Reading](/pages/reading.md)
+- Knowledge
+  - [Knowledge Management](/pages/knowledge_management.md)
