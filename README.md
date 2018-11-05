@@ -43,3 +43,4 @@
 - [Reading](/pages/reading.md)
 - Knowledge
   - [Knowledge Management](/pages/knowledge_management.md)
+- [Physical Libraries](/pages/physical_libraries.md)
