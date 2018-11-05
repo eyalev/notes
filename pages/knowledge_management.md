@@ -3,7 +3,11 @@
 
 ## Systems
 
-- https://zettelkasten.de
+### Zettelkasten
+
+- Resources
+  - https://zettelkasten.de
+  - https://takingnotenow.blogspot.com/
 
 
 
