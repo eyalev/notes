@@ -10,6 +10,15 @@ Book notes might have:
 
 ---
 
+Categories
+
+ - [Biographies](#Biographies)
+ - [Psychology](#Psychology)
+ - [Business](#Business)
+ - [Technology](#Technology)
+
+---
+
 ## Biographies
 
 - **Einstein: His Life and Universe** (10/10) ([git-wiki](https://github.com/git-wiki/wiki/blob/master/pages/einstein_his_life_and_universe.md))
