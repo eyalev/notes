@@ -2,9 +2,11 @@
 # Reading List
 
 Book notes might have:
-  - Score in parentheses.
-  - [git-wiki]() link. Similar to the concept of a Wikipedia link.
-  - 'Mindset shift' section: how the book changed my mind or thought process.
+  - **Score** in parentheses.
+  - **[git-wiki](https://github.com/git-wiki/wiki)** link. Similar to the concept of a Wikipedia link.
+  - **Mindset shift** section: how the book changed my mind or thought process.
+  - **Takeaway** section: stuff I got from the book. New knowledge.
+    - In some cases this is a "weaker" version of *Mindset shift*
 
 ---
 
