@@ -3,13 +3,18 @@
 
 ## Workflows
 
-### Dashboard in the terminal
+### Custom dashboard in the terminal
 
 - I create a dashboard in a `tmux` window with multiple `panes`
 - Each pane has a `kubectl` prefixed with a `watch` command.
   - Examples
     - `watch -d kubectl get pods -a`
     - `watch -d kubectl get jobs`
+
+## Dashboards
+
+- https://github.com/hjacobs/kube-ops-view
+
 
 ## Maximum Nodes in Cluster
 
