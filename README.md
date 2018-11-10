@@ -47,3 +47,5 @@
 - [Education](/pages/eduction.md)
 - [Inequality](/pages/inequality.md)
 - [People](/pages/people.md)
+- [The Big Problems](/pages/the_big_problems.md)
+  - [The Ecological Crisis](/pages/the_ecological_crisis.md)
