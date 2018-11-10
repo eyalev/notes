@@ -16,7 +16,7 @@
   We have to wake up at some point.<br><br> 
   We're really really confused.
     
-Source: [Why Systems Thinking? [video]](https://www.youtube.com/watch?v=r2x78DgslWQ&t=39m52s)
+  - Source: [Why Systems Thinking? [video]](https://www.youtube.com/watch?v=r2x78DgslWQ&t=39m52s)
 
 
 ### Resources
