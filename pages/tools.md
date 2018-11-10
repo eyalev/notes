@@ -1,10 +1,17 @@
 
 # Tools
 
-## fzf
+## Terminal Fuzzy Search
 
-Website: https://github.com/junegunn/fzf
+### fzf
 
+https://github.com/junegunn/fzf
+
+## Clipboard Manager
+
+### CopyQ
+
+https://github.com/hluk/CopyQ
 
 ## Uptime Monitoring
 
