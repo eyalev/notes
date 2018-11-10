@@ -11,6 +11,6 @@
 
 - https://www.youtube.com/watch?v=r2x78DgslWQ
   - "Why Systems Thinking?"
-  - Especially since minute 33:43
+  - Especially minute 33:43 to 40:32
 
 
