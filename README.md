@@ -46,3 +46,4 @@
 - [Physical Libraries](/pages/physical_libraries.md)
 - [Education](/pages/eduction.md)
 - [Inequality](/pages/inequality.md)
+- [People](/pages/people.md)
