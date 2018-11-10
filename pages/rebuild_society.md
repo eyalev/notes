@@ -2,7 +2,7 @@
 # Rebuild Society
 
 ## Why
-- We have multiple problems in our world
+- We have [multiple problems in our world](/pages/the_big_problems.md)
   - We are destroying our planet
   - Violence and wars
   - Inequality
