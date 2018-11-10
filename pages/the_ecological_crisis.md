@@ -11,5 +11,6 @@
 ## Animals
 
 - [Humanity has wiped out 60% of animal populations since 1970, report finds](https://www.theguardian.com/environment/2018/oct/30/humanity-wiped-out-animals-since-1970-major-report-finds)
+- [African elephants could be extinct 'within a decade'](https://www.telegraph.co.uk/travel/destinations/africa/articles/African-elephants-could-be-extinct-within-a-decade/)
 
 
