@@ -44,3 +44,4 @@
 - Knowledge
   - [Knowledge Management](/pages/knowledge_management.md)
 - [Physical Libraries](/pages/physical_libraries.md)
+- [Education](/pages/eduction.md)
