@@ -49,6 +49,8 @@ Categories
   - Takeaways
     - The Concept of [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product).
     - More scientific attitude to product development.
+- **The Fifth Discipline: The Art & Practice of The Learning Organization**
+  - [Notes](/books/the_fifth_discipline.md)
 
 
 ## Technology
