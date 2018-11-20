@@ -18,4 +18,12 @@
   
 - https://cloud.google.com/appengine/docs/standard/python/an-overview-of-app-engine#limits
 
+## Logs
+
+### Viewing web console logs
+
+#### Excluding log messages
+
+- Move to "Advanced Log Filters" mode
+- Add `NOT textPayload:(text-to-exclude)`
 
