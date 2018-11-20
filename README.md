@@ -14,6 +14,7 @@
 - Psychology
   - [Psychological Safety](/pages/psychological_safety.md)
 - Our World
+  - [Universal Well Being](/pages/universal_well_being.md)
   - [Rebuild Society](/pages/rebuild_society.md)
   - [The Big Problems](/pages/the_big_problems.md)
     - [The Ecological Crisis](/pages/the_ecological_crisis.md)
