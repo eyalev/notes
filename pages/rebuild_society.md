@@ -43,4 +43,12 @@ A way to develop better ways to use our resources and the planet's resources.
 - Sharing between communities, similar to open-source.
   
 
+## Quotes
+
+- > We must reinvent our culture and our institutions from the bottom up.
+  - [David Korten - The New Economy: A Living Earth System Model](https://davidkorten.org/new-economy-system-model/)
+
+
+
+
 
