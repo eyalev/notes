@@ -43,3 +43,5 @@
 - [Education](/pages/eduction.md)
 - [People](/pages/people.md)
 - [Growth](/pages/growth.md)
+- [Critical Thinking](/pages/critical_thinking.md)
+
