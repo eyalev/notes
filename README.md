@@ -1,7 +1,6 @@
 
 # Notes
-
-- [About me](/pages/about_me.md)  
+  
 - [Similar repos](https://github.com/RichardLitt/meta-knowledge)
 
 ---
