@@ -1,10 +1,6 @@
 
 # Notes
   
-- [Similar repos](https://github.com/RichardLitt/meta-knowledge)
-
----
-
 - Books
   - [Reading List](/pages/books_reading_list.md)
   - [Why You Should Read Books](/pages/why_you_should_read_books.md)
@@ -43,4 +39,9 @@
 - [People](/pages/people.md)
 - [Growth](/pages/growth.md)
 - [Critical Thinking](/pages/critical_thinking.md)
+
+## Also see
+
+- [Similar knowledge repos](https://github.com/RichardLitt/meta-knowledge)
+
 
