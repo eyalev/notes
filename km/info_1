@@ -1,1 +1,1 @@
-python pandas dataframe length: len(DataFrame.index)
+python pandas dataframe length: len(df.index)
